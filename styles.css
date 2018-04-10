@@ -1,0 +1,44 @@
+body {
+    margin: 2% 20%;
+}
+
+.container {
+    position: absolute;
+    width: 775px;
+    height: 585px;
+    background: rgba(58, 48, 171, 0.08);
+}
+
+.header {
+    position: absolute;
+    width: 775px;
+    height: 41px;
+    background: #141313;
+}
+
+.header p {
+    font-family: 'Reem Kufi', sans-serif;
+    font-weight: normal;
+    font-size: 24px;
+    color: #F71E1E;
+    float: left;
+    margin-top: 2px;
+    padding: 4px 8px;
+}
+
+.currentDate {
+    text-align: center;
+    font-family: 'Reem Kufi', sans-serif;
+    font-weight: normal;
+    font-size: 24px;
+    color: #2B06BF;
+    margin-top: 265px;
+}
+
+.welcome p {
+    font-family: 'Ribeye', cursive;
+    font-size: 24px;
+    color: #000000;
+    text-align: center;
+    margin: auto;
+}
